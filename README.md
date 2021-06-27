@@ -39,7 +39,7 @@ A simple expense tracker built using Golang, React JS and MySQL. The application
 ### Clone Repo
 
 ```sh
-git clone https://github.com/budgie-expense-tracker
+git clone git@github.com:lugbit/budgie-expense-tracker.git
 ```
    
 ### Initialize MySQL Database
